@@ -104,3 +104,9 @@ Update the command above if your actual dashboard filename differs.
 ## Note
 
 This project uses historical telecommunications data as a foundation for a 5G-oriented forecasting framework. It does not directly measure live 5G network performance.
+
+## Streamlit Dashboard
+
+The interactive dashboard visualizes historical internet activity, traffic predictions, and network load categories.
+
+![Streamlit Dashboard](outputs/dashboard.png)
