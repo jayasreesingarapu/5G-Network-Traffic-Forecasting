@@ -88,7 +88,7 @@ Launch the dashboard using the Streamlit entry-point file inside the `app/` fold
 For example:
 
 ```bash
-streamlit run app/app.py
+python -m streamlit run app/dashboard.py
 ```
 
 Update the command above if your actual dashboard filename differs.
