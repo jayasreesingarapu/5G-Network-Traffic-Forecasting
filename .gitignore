@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/
+*.csv
+*.parquet
+
+# Large trained models
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Secrets
+.env
+.streamlit/secrets.toml
